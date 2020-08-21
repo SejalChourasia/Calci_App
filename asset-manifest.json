@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SejalChourasia.github.io/Calci_App/static/css/main.41bc2f04.chunk.css",
+    "main.js": "/SejalChourasia.github.io/Calci_App/static/js/main.dba52905.chunk.js",
+    "main.js.map": "/SejalChourasia.github.io/Calci_App/static/js/main.dba52905.chunk.js.map",
+    "runtime-main.js": "/SejalChourasia.github.io/Calci_App/static/js/runtime-main.e66c7da4.js",
+    "runtime-main.js.map": "/SejalChourasia.github.io/Calci_App/static/js/runtime-main.e66c7da4.js.map",
+    "static/js/2.7b5514a5.chunk.js": "/SejalChourasia.github.io/Calci_App/static/js/2.7b5514a5.chunk.js",
+    "static/js/2.7b5514a5.chunk.js.map": "/SejalChourasia.github.io/Calci_App/static/js/2.7b5514a5.chunk.js.map",
+    "index.html": "/SejalChourasia.github.io/Calci_App/index.html",
+    "precache-manifest.c0aa87780f98f46780bb13a14cd59846.js": "/SejalChourasia.github.io/Calci_App/precache-manifest.c0aa87780f98f46780bb13a14cd59846.js",
+    "service-worker.js": "/SejalChourasia.github.io/Calci_App/service-worker.js",
+    "static/css/main.41bc2f04.chunk.css.map": "/SejalChourasia.github.io/Calci_App/static/css/main.41bc2f04.chunk.css.map",
+    "static/js/2.7b5514a5.chunk.js.LICENSE.txt": "/SejalChourasia.github.io/Calci_App/static/js/2.7b5514a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e66c7da4.js",
+    "static/js/2.7b5514a5.chunk.js",
+    "static/css/main.41bc2f04.chunk.css",
+    "static/js/main.dba52905.chunk.js"
+  ]
+}
