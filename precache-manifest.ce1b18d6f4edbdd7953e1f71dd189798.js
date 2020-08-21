@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1f6b0138279475539bf28832bae7bad8",
+    "revision": "c4e0a2623c5a20e0c671738ac90d4aca",
     "url": "/Calci_App/index.html"
   },
   {
-    "revision": "c6b8f976a0d82106063d",
-    "url": "/Calci_App/static/css/main.41bc2f04.chunk.css"
+    "revision": "02ae3f2df0cf1851025d",
+    "url": "/Calci_App/static/css/main.674d0dcb.chunk.css"
   },
   {
     "revision": "54bf8ec3476ce8a6ef21",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Calci_App/static/js/2.7b5514a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c6b8f976a0d82106063d",
+    "revision": "02ae3f2df0cf1851025d",
     "url": "/Calci_App/static/js/main.f1d8e439.chunk.js"
   },
   {

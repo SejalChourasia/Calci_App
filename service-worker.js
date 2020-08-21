@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Calci_App/precache-manifest.8257454c4ec8962602f6e7b57e511402.js"
+  "/Calci_App/precache-manifest.ce1b18d6f4edbdd7953e1f71dd189798.js"
 );
 
 self.addEventListener('message', (event) => {
